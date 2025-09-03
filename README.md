@@ -1,7 +1,7 @@
-# Hi, I'm Vandra 👋  
+# Hi, I'm Vandra 👋
 <br>
 ---
-## 👨‍🎓 About Me  
+## 👨‍🎓 About Me
 🎓 Currently studying **Informatics Engineering** at **State Islamic University of Malang (UIN Malang)**.  
 🌱 Always **learning, creating, and growing** through technology.  
 📱 Focusing on **Fullstack Mobile Development** with Flutter.  
@@ -11,10 +11,10 @@
 
 <br>
 ---
-## 🚀 Tech Stack  
+## 🚀 Tech Stack
 - **Languages:** Dart, Java, PHP, JavaScript  
-- **Frameworks & Tools:** Flutter, MySQL, Git, Android Studio, Netbeans  
-- **Currently Learning:** Flutter for mobile, AI concepts, AR development  
+- **Frameworks & Tools:** Flutter, MySQL, Git, Android Studio, Netbeans
+- **Currently Learning:** Flutter for mobile, AI concepts, AR development
 
 ---
 
@@ -35,7 +35,7 @@ Currently, I’m learning mobile programming:
 
 <br>
 ---
-## 🌐 Connect with Me  
+## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/ekarisnovandra/)  
 - [Email](mailto:risnovandraeka@gmail.com)  
 
@@ -43,6 +43,6 @@ Currently, I’m learning mobile programming:
 
 
 ---
-✨ *"Keep learning, keep creating, keep growing."*  
+✨ *"Keep learning, keep creating, keep growing."*
 
 ---
